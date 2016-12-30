@@ -1,0 +1,16 @@
+R,G,B,Category,Family
+255,0,0,A,Reds
+255,128,0,B,Oranges
+255,255,0,C,Yellows
+128,255,0,D,Greens
+0,255,0,E,Greens
+0,255,128,F,Cyans
+0,255,255,G,Cyans
+0,128,255,H,Blues
+0,0,255,I,Blues
+128,0,255,J,Violets
+255,0,255,K,Magentas
+255,0,128,L,Magentas
+0,0,0,M,Blacks
+128,128,128,N,Greys
+255,255,255,O,Whites
